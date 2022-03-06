@@ -1,0 +1,25 @@
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\Курсовой проект.exe.config
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\Курсовой проект.exe
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\Курсовой проект.pdb
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.csprojAssemblyReference.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой_проект.Properties.Resources.resources
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.exe
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.pdb
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой_проект.fstart.resources
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\MySql.Data.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\Google.Protobuf.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\System.Buffers.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\MySql.Data.xml
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.csproj.CopyComplete
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой_проект.FR.resources
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой_проект.FA.resources
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой_проект.FVT.resources
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\bin\Debug\ZstdNet.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Курсовые\мои\ПР 2 курс\Курсовой проект\Курсовой проект\obj\Debug\Курсовой проект.exe.config
