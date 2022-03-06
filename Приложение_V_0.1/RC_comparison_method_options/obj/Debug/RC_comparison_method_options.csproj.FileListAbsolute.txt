@@ -1,0 +1,6 @@
+C:\Users\MSI GF63\Desktop\мусор (нет)\программирование\проекты\Гис Магнит\Приложение_V_0.1\RC_comparison_method_options\bin\Debug\RC_comparison_method_options.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\программирование\проекты\Гис Магнит\Приложение_V_0.1\RC_comparison_method_options\bin\Debug\RC_comparison_method_options.pdb
+C:\Users\MSI GF63\Desktop\мусор (нет)\программирование\проекты\Гис Магнит\Приложение_V_0.1\RC_comparison_method_options\obj\Debug\RC_comparison_method_options.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\программирование\проекты\Гис Магнит\Приложение_V_0.1\RC_comparison_method_options\obj\Debug\RC_comparison_method_options.dll
+C:\Users\MSI GF63\Desktop\мусор (нет)\программирование\проекты\Гис Магнит\Приложение_V_0.1\RC_comparison_method_options\obj\Debug\RC_comparison_method_options.pdb
+C:\Users\MSI GF63\Desktop\мусор (нет)\программирование\проекты\Гис Магнит\Приложение_V_0.1\RC_comparison_method_options\obj\Debug\RC_comparison_method_options.csprojAssemblyReference.cache
