@@ -1,0 +1,7 @@
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\bin\Debug\ЛР№10_R.exe.config
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\bin\Debug\ЛР№10_R.exe
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\bin\Debug\ЛР№10_R.pdb
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\obj\Debug\ЛР№10_R.csprojAssemblyReference.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\obj\Debug\ЛР№10_R.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\obj\Debug\ЛР№10_R.exe
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\4 семестр\МООП\ЛР№10_R\ЛР№10_R\obj\Debug\ЛР№10_R.pdb
