@@ -1,0 +1,7 @@
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\bin\Debug\ЛР№7.exe.config
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\bin\Debug\ЛР№7.exe
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\bin\Debug\ЛР№7.pdb
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\obj\Debug\ЛР№7.csprojAssemblyReference.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\obj\Debug\ЛР№7.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\obj\Debug\ЛР№7.exe
+C:\Users\MSI GF63\Desktop\мусор (нет)\универ\Лабы\5 семестр\Тестирование\ЛР№7\ЛР№7\obj\Debug\ЛР№7.pdb
